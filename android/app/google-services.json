@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110569929519",
+    "project_id": "healifyme-30323",
+    "storage_bucket": "healifyme-30323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110569929519:android:e64cf394b772ac96223fda",
+        "android_client_info": {
+          "package_name": "com.example.healify_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdR80C9bm6kZTIR5GpfXLUsKYiOw4xMLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
